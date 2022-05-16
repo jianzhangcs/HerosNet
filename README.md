@@ -19,14 +19,44 @@ Figure 1. Illustration of the proposed HerosNet framework.
 ## Test
 1. Prepare test data.
 
-    The original test dataset is in './test'
+    The original test dataset is in './test'.
 
 2. Download pretrained model.
 
-    The original test dataset is in './test'
+    The pretrained model can be downloaded in [Google Drive](https://drive.google.com/file/d/1WhL11DsO8UrMfhyXdd7ITPBg_2b9TeiW/view?usp=sharing).
 
 3. Run the test scripts. 
     ```bash
     python Test.py
     ```
-4. Check the results in './result'.
+4. Check the results in './Results'.
+
+## Train
+1. Prepare Training data.
+
+    Training data is the same with [DGSM](https://github.com/TaoHuang95/DGSMP).
+
+2. Download pretrained model.
+
+    The pretrained model can be downloaded in [Google Drive](https://drive.google.com/file/d/1WhL11DsO8UrMfhyXdd7ITPBg_2b9TeiW/view?usp=sharing).
+
+3. Run the train scripts. 
+    ```bash
+    python Train.py
+    ```
+## Results
+![image](https://github.com/jianzhangcs/HerosNet/blob/main/Figs/results.png)
+
+## Citation
+If you find the code helpful in your resarch or work, please cite the following paper.
+```
+@inproceedings{zhang2022heros,
+ title = {HerosNet: Hyperspectral Explicable Reconstruction and Optimal Sampling Deep Network for Snapshot Compressive Imaging},
+ author = {Xuanyu Zhang, Yongbing Zhang, Ruiqin Xiong, Qilin Sun, Jian Zhang},
+ booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+ year = {2022}
+}
+```
+
+## acknowledgements
+We thank the authors of [DGSM](https://github.com/TaoHuang95/DGSMP) for sharing their codes and data.
