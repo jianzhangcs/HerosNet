@@ -54,5 +54,5 @@ If you find the code helpful in your resarch or work, please cite the following 
 }
 ```
 
-## Acknowledgements
+## Acknowledgement
 We thank the authors of [DGSM](https://github.com/TaoHuang95/DGSMP) for sharing their codes and data.
