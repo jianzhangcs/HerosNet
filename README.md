@@ -1,5 +1,5 @@
 # HerosNet: Hyperspectral Explicable Reconstruction and Optimal Sampling Deep Network for Snapshot Compressive Imaging (CVPR 2022)
-Xuanyu Zhang, Yongbing Zhang, Ruiqin Xiong, Qilin Sun, [Jian Zhang](http://jianzhang.tech/)
+Xuanyu Zhang, Yongbing Zhang, Ruiqin Xiong, Qilin Sun, [Jian Zhang](http://jianzhang.tech/) [PDF](https://arxiv.org/abs/2112.06238)
 
 ## Introduction
 Hyperspectral imaging is an essential imaging modality for a wide range of applications, especially in remote sensing, agriculture, and medicine. Inspired by existing
