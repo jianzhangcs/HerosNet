@@ -36,11 +36,7 @@ Figure 1. Illustration of the proposed HerosNet framework.
 
     Training data is the same with [DGSM](https://github.com/TaoHuang95/DGSMP).
 
-2. Download pretrained model.
-
-    The pretrained model can be downloaded in [Google Drive](https://drive.google.com/file/d/1WhL11DsO8UrMfhyXdd7ITPBg_2b9TeiW/view?usp=sharing).
-
-3. Run the train scripts. 
+2. Run the train scripts. 
     ```bash
     python Train.py
     ```
