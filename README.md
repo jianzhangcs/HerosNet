@@ -15,3 +15,18 @@ Figure 1. Illustration of the proposed HerosNet framework.
 3. [Results](#Results)
 4. [Citation](#citation)
 5. [Acknowledgements](#acknowledgements)
+
+## Test
+1. Prepare test data.
+
+    The original test dataset is in './test'
+
+2. Download pretrained model.
+
+    The original test dataset is in './test'
+
+3. Run the test scripts. 
+    ```bash
+    python Test.py
+    ```
+4. Check the results in './result'.
