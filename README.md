@@ -23,7 +23,7 @@ Figure 1. Illustration of the proposed HerosNet framework.
 
 2. Download pretrained model.
 
-    The pretrained model can be downloaded in [Google Drive](https://drive.google.com/file/d/1WhL11DsO8UrMfhyXdd7ITPBg_2b9TeiW/view?usp=sharing).
+    The pretrained model can be downloaded in [Google Drive](https://drive.google.com/file/d/17kxbNfRHJpLtFfIsdUnQPxVJAR8CrUpy/view?usp=share_link).
 
 3. Run the test scripts. 
     ```bash
